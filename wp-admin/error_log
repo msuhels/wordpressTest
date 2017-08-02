@@ -1,0 +1,1 @@
+[29-Jul-2017 10:20:20 UTC] WordPress database error Unknown table 'wp_duplicator_packages' for query DROP TABLE `wp_duplicator_packages` made by do_action('wp_ajax_delete-plugin'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wp_ajax_delete_plugin, delete_plugins, uninstall_plugin, include('/plugins/duplicator/uninstall.php')

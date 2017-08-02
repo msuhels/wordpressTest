@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1030 184.6" style="enable-background:new 0 0 1030 184.6;" xml:space="preserve">
+<g id="Layer_1">
+	<g id="Isolation_Mode">
+		<path id="code-line3" style="fill:none;" d="M474,112h570"/>
+		<g id="code3" transform="translate(109.6 -106.9)" opacity="0">
+
+			<animate attributeType="CSS" attributeName="opacity" from="1" to="0" begin="8.2s" dur="13s" repeatCount="indefinite" />
+			<animateMotion  accumulate="none" additive="replace" begin="8.2s" dur="13s" calcMode="paced" fill="remove" repeatCount="indefinite" restart="always">
+				<mpath  xlink:href="#code-line3" xmlns:xlink="http://www.w3.org/1999/xlink"></mpath>
+			</animateMotion>
+
+			<line style="fill:none;stroke:#1CB78D;stroke-miterlimit:10;" x1="-109.6" y1="106.9" x2="-98.7" y2="106.9"/>
+			<line style="fill:none;stroke:#EFEDEA;stroke-miterlimit:10;" x1="-92.8" y1="106.9" x2="-66.9" y2="106.9"/>
+			<line style="fill:none;stroke:#F39300;stroke-miterlimit:10;" x1="-35.6" y1="106.9" x2="-16.2" y2="106.9"/>
+			<line style="fill:none;stroke:#EFEDEA;stroke-miterlimit:10;" x1="-109.6" y1="113" x2="-41.2" y2="113"/>
+			<line style="fill:none;stroke:#F39300;stroke-miterlimit:10;" x1="-116.2" y1="119" x2="-98.7" y2="119"/>
+		</g>
+		<path id="code-line2" style="fill:none;" d="M483,103.5h561"/>
+		<g id="code2" transform="translate(127.7 -96.4)" opacity="0">
+
+			<animate attributeType="CSS" attributeName="opacity" from="1" to="0" begin="13.2s" dur="11s" repeatCount="indefinite" />
+			<animateMotion  accumulate="none" additive="replace" begin="13.2s" dur="11s" calcMode="paced" fill="remove" repeatCount="indefinite" restart="always">
+				<mpath  xlink:href="#code-line2" xmlns:xlink="http://www.w3.org/1999/xlink"></mpath>
+			</animateMotion>
+
+			<line style="fill:none;stroke:#1CB78D;stroke-miterlimit:10;" x1="-127.7" y1="96.4" x2="-116.8" y2="96.4"/>
+			<line style="fill:none;stroke:#EFEDEA;stroke-miterlimit:10;" x1="-114" y1="96.4" x2="-85" y2="96.4"/>
+			<line style="fill:none;stroke:#EFEDEA;stroke-miterlimit:10;" x1="-127.7" y1="102.4" x2="-59.3" y2="102.4"/>
+			<line style="fill:none;stroke:#F39300;stroke-miterlimit:10;" x1="-134.3" y1="108.5" x2="-116.8" y2="108.5"/>
+		</g>
+		<path id="code-line1" style="fill:none;" d="M515,52h529"/>
+		<g id="code1" transform="translate(125 -48.1)" opacity="0">
+
+			<animate attributeType="CSS" attributeName="opacity" from="1" to="0" begin="2.2s" dur="10s" repeatCount="indefinite" />
+			<animateMotion  accumulate="none" additive="replace" begin="2.2s" dur="10s" calcMode="paced" fill="remove" repeatCount="indefinite" restart="always">
+				<mpath  xlink:href="#code-line1" xmlns:xlink="http://www.w3.org/1999/xlink"></mpath>
+			</animateMotion>
+
+			<line style="fill:none;stroke:#EFEDEA;stroke-miterlimit:10;" x1="-125" y1="48.1" x2="-81.5" y2="48.1"/>
+			<line style="fill:none;stroke:#F39300;stroke-miterlimit:10;" x1="-76.8" y1="48.1" x2="-61.1" y2="48.1"/>
+			<line style="fill:none;stroke:#1CB78D;stroke-miterlimit:10;" x1="-56.7" y1="48.1" x2="-46.6" y2="48.1"/>
+			<line style="fill:none;stroke:#EFEDEA;stroke-miterlimit:10;" x1="-118.4" y1="54.2" x2="-70.2" y2="54.2"/>
+			<line style="fill:none;stroke:#F39300;stroke-miterlimit:10;" x1="-65.3" y1="54.2" x2="-41.1" y2="54.2"/>
+			<line style="fill:none;stroke:#EFEDEA;stroke-miterlimit:10;" x1="-111.9" y1="60.2" x2="-81.5" y2="60.2"/>
+		</g>
+		<path id="task-line3" style="fill:none;" d="M-56,112h517"/>
+		<g id="task3" transform="translate(0 -108.4)" opacity="0">
+
+			<animate attributeType="CSS" attributeName="opacity" from="0" to="1" begin="-1s" dur="10s" repeatCount="indefinite" />
+			<animateMotion  accumulate="none" additive="replace" begin="-1s" dur="10s" calcMode="paced" fill="remove" repeatCount="indefinite" restart="always">
+				<mpath  xlink:href="#task-line3" xmlns:xlink="http://www.w3.org/1999/xlink"></mpath>
+			</animateMotion>
+
+			<rect x="-55.1" y="108.4" style="opacity:0.4;fill:#FFFFFF;enable-background:new    ;" width="8.4" height="8.4"/>
+			<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-39.7" y1="110.4" x2="-30.1" y2="110.4"/>
+			<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-39.7" y1="114.6" x2="-3" y2="114.6"/>
+		</g>
+		<path id="task-line2" style="fill:none;" d="M-37,75.5h494"/>
+		<g id="task2" transform="translate(0 -71.4)" opacity="0">
+
+			<animate attributeType="CSS" attributeName="opacity" from="0" to="1" begin="0s" dur="13s" repeatCount="indefinite" />
+			<animateMotion  accumulate="none" additive="replace" begin="0s" dur="13s" calcMode="paced" fill="remove" repeatCount="indefinite" restart="always">
+				<mpath  xlink:href="#task-line2" xmlns:xlink="http://www.w3.org/1999/xlink"></mpath>
+			</animateMotion>
+
+			<rect x="-37.1" y="71.4" style="opacity:0.4;fill:#FFFFFF;enable-background:new    ;" width="8.4" height="8.3"/>
+			<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-21.7" y1="73.4" x2="0.3" y2="73.4"/>
+			<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-21.7" y1="77.6" x2="-12.1" y2="77.6"/>
+		</g>
+		<path id="task-line1" style="fil:none;" d="M-38,50.5h498"/>
+		<g id="task1" transform="translate(0 -46.4)" opacity="0">
+			<animate attributeType="CSS" attributeName="opacity" begin="-5s" from="0" to="1" dur="7s" repeatCount="indefinite" />
+			<animateMotion  accumulate="none" additive="replace" begin="-5s" calcMode="paced" dur="7s" fill="remove" repeatCount="indefinite" restart="always">
+				<mpath  xlink:href="#task-line1" xmlns:xlink="http://www.w3.org/1999/xlink"></mpath>
+			</animateMotion>
+
+			<rect x="-38.1" y="46.4" style="opacity:0.4;fill:#FFFFFF;enable-background:new    ;" width="8.4" height="8.3"/>
+			<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-22.7" y1="48.4" x2="-0.7" y2="48.4"/>
+			<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-22.7" y1="52.6" x2="-13.1" y2="52.6"/>
+		</g>
+		<g id="Computer">
+			
+				<line style="fill:none;stroke:#424C58;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;" x1="360.8" y1="161.3" x2="649.2" y2="161.3"/>
+			<path style="fill:#424C58;" d="M624.4,161.3H403l-8.6-6.3c0-0.9,0.8-1.7,1.7-1.7l0,0H633c0.9,0,1.7,0.8,1.7,1.7L624.4,161.3z"/>
+			
+				<line style="fill:none;stroke:#424C58;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;" x1="658.6" y1="161.3" x2="669.2" y2="161.3"/>
+			<rect x="423.2" y="40.1" style="fill:#e5e5e5;" width="182.2" height="113.2"/>
+			<path style="fill:#424C58;" d="M423.3,153.3h-10.7v-116c0-3.5,2.8-6.3,6.3-6.3h191.4c3.5,0,6.3,2.8,6.3,6.3v116h-11.2V40.1H423.3
+				V153.3z"/>
+			<g>
+				<g>
+					
+						<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="507.54" y1="105.82" x2="507.54" y2="117.6" gradientTransform="matrix(1 0 0 -1 0 184)">
+						<stop  offset="0" style="stop-color:#C6182A"/>
+						<stop  offset="1" style="stop-color:#EC9046"/>
+					</linearGradient>
+					<polygon style="fill:url(#SVGID_1_);" points="507.5,66.4 504.1,72.3 507.5,78.2 511,72.3 					"/>
+					
+						<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="515.66" y1="60.57" x2="515.66" y2="107.83" gradientTransform="matrix(1 0 0 -1 0 184)">
+						<stop  offset="0" style="stop-color:#C6182A"/>
+						<stop  offset="1" style="stop-color:#EC9046"/>
+					</linearGradient>
+					<path style="fill:url(#SVGID_2_);" d="M525.4,85.4l-4.3-7.4l-2.2,3.8l4.3,7.4L525.4,85.4z M523.2,89.2l-2.1,3.6l-4.3-7.4
+						l2.1-3.6l-3.2-5.6L495.4,111l8.9,12.5h22.8l8.8-12.5L523.2,89.2z M510.9,117.9l-6-10.3l6-10.3l6,10.3L510.9,117.9z"/>
+					
+						<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="495.36" y1="86.51" x2="495.36" y2="96.07" gradientTransform="matrix(1 0 0 -1 0 184)">
+						<stop  offset="0" style="stop-color:#C6182A"/>
+						<stop  offset="1" style="stop-color:#EC9046"/>
+					</linearGradient>
+					<polygon style="fill:url(#SVGID_3_);" points="495.4,87.9 492.6,92.7 495.4,97.5 498.1,92.7 					"/>
+					
+						<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="521.115" y1="115.62" x2="521.115" y2="119.79" gradientTransform="matrix(1 0 0 -1 0 184)">
+						<stop  offset="0" style="stop-color:#C6182A"/>
+						<stop  offset="1" style="stop-color:#EC9046"/>
+					</linearGradient>
+					<polygon style="fill:url(#SVGID_4_);" points="521.1,64.2 519.9,66.3 521.1,68.4 522.3,66.3 					"/>
+					
+						<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="535.9" y1="82.99" x2="535.9" y2="90.51" gradientTransform="matrix(1 0 0 -1 0 184)">
+						<stop  offset="0" style="stop-color:#C6182A"/>
+						<stop  offset="1" style="stop-color:#EC9046"/>
+					</linearGradient>
+					<polygon style="fill:url(#SVGID_5_);" points="535.9,93.5 533.7,97.2 535.9,101 538.1,97.2 					"/>
+				</g>
+				<g>
+					<polygon style="fill:#8E7057;" points="507,127.1 511,127.1 512.2,130.8 509,133.2 505.8,130.8 					"/>
+					<polygon style="fill:#8E7057;" points="520.1,127.1 524.1,127.1 525.3,130.8 522.1,133.2 518.9,130.8 					"/>
+					<polygon style="fill:#8E7057;" points="531.3,124.6 533.5,121.3 537.3,122.4 537.4,126.4 533.7,127.7 					"/>
+					<polygon style="fill:#8E7057;" points="500,124.4 497.7,121.1 493.9,122.2 493.9,126.2 497.6,127.5 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
